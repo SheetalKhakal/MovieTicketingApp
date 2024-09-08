@@ -15,5 +15,3 @@ x
 Happ/src/main/java/com/sheetal/movieticketingapp/presentation/AppTheme.kt,3\2\326e3688dc80ea4b382b049ab122efb90442dbf7
 P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
-t
-Dapp/src/main/java/com/sheetal/movieticketingapp/presentation/demo.kt,0\2\02d21511709bb8ff87abb4a7f48f81f062ed6617
